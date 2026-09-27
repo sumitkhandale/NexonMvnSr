@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="MasterSuiteLife">
+  <suite-files>
+  <suite-file path="C:\Users\DELL\eclipse-workspace\Amstrad_Sr\LifeFirst.xml"></suite-file>
+    <suite-file path="C:\Users\DELL\eclipse-workspace\Amstrad_Sr\SecondLife.xml"></suite-file>
+    <suite-file path="C:\Users\DELL\eclipse-workspace\Amstrad_Sr\ThirdLife.xml"></suite-file>
+  </suite-files>
+</suite> <!-- Suite -->

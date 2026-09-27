@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-26T09:58:08 IST" name="Suite" finished-at="2026-09-26T09:58:10 IST" duration-ms="1580">
+    <groups>
+    </groups>
+    <test started-at="2026-09-26T09:58:08 IST" name="Test" finished-at="2026-09-26T09:58:10 IST" duration-ms="1580">
+      <class name="First_Segment.Registration">
+        <test-method signature="user_emailid()[pri:0, instance:First_Segment.Registration@51891008]" started-at="2026-09-26T09:58:08 IST" name="user_emailid" finished-at="2026-09-26T09:58:09 IST" duration-ms="706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_emailid -->
+        <test-method signature="user_mobileno()[pri:0, instance:First_Segment.Registration@51891008]" started-at="2026-09-26T09:58:09 IST" name="user_mobileno" finished-at="2026-09-26T09:58:09 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_mobileno -->
+        <test-method signature="userid_creation()[pri:0, instance:First_Segment.Registration@51891008]" started-at="2026-09-26T09:58:09 IST" name="userid_creation" finished-at="2026-09-26T09:58:09 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userid_creation -->
+        <test-method signature="username_field()[pri:0, instance:First_Segment.Registration@51891008]" started-at="2026-09-26T09:58:10 IST" name="username_field" finished-at="2026-09-26T09:58:10 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- username_field -->
+      </class> <!-- First_Segment.Registration -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite started-at="2026-09-26T09:58:10 IST" name="Suite (1)" finished-at="2026-09-26T09:58:11 IST" duration-ms="90">
+    <groups>
+    </groups>
+    <test started-at="2026-09-26T09:58:10 IST" name="Test" finished-at="2026-09-26T09:58:11 IST" duration-ms="90">
+      <class name="Third_Segment.WishList">
+        <test-method signature="multiple_product()[pri:0, instance:Third_Segment.WishList@47c81abf]" started-at="2026-09-26T09:58:10 IST" name="multiple_product" finished-at="2026-09-26T09:58:10 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiple_product -->
+        <test-method signature="productList()[pri:0, instance:Third_Segment.WishList@47c81abf]" started-at="2026-09-26T09:58:10 IST" name="productList" finished-at="2026-09-26T09:58:10 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productList -->
+      </class> <!-- Third_Segment.WishList -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (1) -->
+  <suite started-at="2026-09-26T09:58:10 IST" name="Suite (0)" finished-at="2026-09-26T09:58:10 IST" duration-ms="339">
+    <groups>
+    </groups>
+    <test started-at="2026-09-26T09:58:10 IST" name="Test" finished-at="2026-09-26T09:58:10 IST" duration-ms="339">
+      <class name="Second_Segment.HomePage">
+        <test-method signature="customer_review()[pri:0, instance:Second_Segment.HomePage@7283d3eb]" started-at="2026-09-26T09:58:10 IST" name="customer_review" finished-at="2026-09-26T09:58:10 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customer_review -->
+        <test-method signature="menue_option()[pri:0, instance:Second_Segment.HomePage@7283d3eb]" started-at="2026-09-26T09:58:10 IST" name="menue_option" finished-at="2026-09-26T09:58:10 IST" duration-ms="81" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menue_option -->
+        <test-method signature="product_tab()[pri:0, instance:Second_Segment.HomePage@7283d3eb]" started-at="2026-09-26T09:58:10 IST" name="product_tab" finished-at="2026-09-26T09:58:10 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- product_tab -->
+        <test-method signature="search_option()[pri:0, instance:Second_Segment.HomePage@7283d3eb]" started-at="2026-09-26T09:58:10 IST" name="search_option" finished-at="2026-09-26T09:58:10 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_option -->
+      </class> <!-- Second_Segment.HomePage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
+  <suite started-at="2026-09-26T09:58:11 IST" name="MasterSuiteLife" finished-at="2026-09-26T09:58:11 IST" duration-ms="0">
+    <groups>
+    </groups>
+  </suite> <!-- MasterSuiteLife -->
+</testng-results>
